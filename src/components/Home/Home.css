@@ -1,0 +1,190 @@
+html,body{
+  background-color: black;
+  overflow-x: hidden;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+}
+
+h1 {    color: rgb(0, 0, 0); /* Example: Set text color to dark gray */
+    font-family: Arial, sans-serif; /* Example: Set font family */
+    display: inline;
+    margin: 15px;
+ 
+    /* Your CSS styles for <h1> elements go here */
+
+  }
+
+  h2 {
+    color: white; /* Set the font color to white for h2 elements */
+  }
+
+
+
+
+  #myImage {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 68px;
+    width: 251px;
+    height: 240px;
+  }
+
+
+  #navi{
+    position: relative;
+    bottom: 345px;
+    z-index: 9999;
+    left: 9px;
+  }
+
+
+
+  h2 {
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 2em; /* Adjust the font size as needed */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide overflow to prevent text from appearing outside the container */
+    animation: animateText 4s infinite; /* Adjust duration as needed */
+    position: absolute; /* Position the element absolutely */
+    top: 334px; /* Set to top initially */
+    left: 50%; /* Move to the horizontal center initially */
+    transform: translateX(-50%); /* Correctly center horizontally */
+  }
+
+
+  p {
+    position: relative;
+    line-height: 1.6;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    bottom: 350px;
+    font-size: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  /*------------------------------------------Navigation Css-----------------------------------------------------------------*/
+
+
+  /* styles.css */
+
+/* Additional styles for the content section */
+section {
+  padding: 20px;
+  text-align: center;
+  background-color: #f0f0f0; /* Set the background color for the content section */
+}
+
+section h2 {
+  color: #333; /* Set the text color for the heading */
+}
+
+ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: white; /* Set text color to white for top-level list items */
+}
+
+li ul {
+  list-style-type: none; /* Remove default list styles for nested ul */
+  padding: 0;
+}
+
+li ul li {
+  margin-bottom: 5px; /* Adjust spacing between nested list items */
+  color: white; /* Set text color to white for nested list items */
+}
+/* styles.css */
+
+/* Additional styles for the content section */
+section {
+  padding: 20px;
+  text-align: center;
+  background-color: #f0f0f0; /* Set the background color for the content section */
+}
+
+section h2 {
+  color: #333; /* Set the text color for the heading */
+}
+
+ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0;
+}
+
+li {
+  display: inline; /* Display list items inline */
+  margin-right: 10px; /* Add spacing between inline list items */
+  font-size: 16px;
+  line-height: 1.5;
+  color: white; /* Set text color to white for list items */
+}
+
+li ul {
+  list-style-type: none; /* Remove default list styles for nested ul */
+  padding: 0;
+}
+
+li ul li {
+  display: inline; /* Display nested list items inline */
+  margin-right: 10px; /* Add spacing between inline nested list items */
+  color: white; /* Set text color to white for nested list items */
+}
+/* styles.css */
+
+/* Center the content vertically */
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set the height to fill the viewport */
+}
+
+li {
+  list-style: none; /* Remove default list style */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+ul > li > ul {
+  display: flex; /* Display the nested ul as flex */
+  flex-direction: row; /* Align nested ul items horizontally */
+  align-items: center; /* Center the nested ul items vertically */
+  padding: 0; /* Remove default padding */
+}
+
+ul > li > ul > li {
+  margin-right: 16px; /* Add margin between nested list items */
+}
+/* styles.css */
+
+/* Set space between words in list items */
+ul > li > ul > li {
+  margin: -8px 28px;
+  word-spacing: 5px;
+}
+
+
+li{
+  font-size: 25px;
+  
+}
