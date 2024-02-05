@@ -22,7 +22,7 @@ function Home(){
             </ul>
           </li>
         </ul>
-            <img src= {image.myImage} id="myImage"/>
+            <img src= {image.myImage} id="myImage" alt="myImage"/>
 
 
         <h2 id="welcomeMyBlogTxt">Welcome My Blog</h2>

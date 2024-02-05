@@ -1,0 +1,12 @@
+.map-container {
+    position: relative;
+    text-align: center;
+  }
+  
+  iframe {
+    position: absolute;
+    bottom: -1533px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  

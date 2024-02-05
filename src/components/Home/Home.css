@@ -25,7 +25,7 @@ h1 {    color: rgb(0, 0, 0); /* Example: Set text color to dark gray */
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    top: 68px;
+    top: 97px;
     width: 251px;
     height: 240px;
   }
@@ -40,7 +40,7 @@ h1 {    color: rgb(0, 0, 0); /* Example: Set text color to dark gray */
 
 
 
-  h2 {
+  #welcomeMyBlogTxt{
     color: white;
     text-align: center;
     margin: 0;
@@ -49,21 +49,24 @@ h1 {    color: rgb(0, 0, 0); /* Example: Set text color to dark gray */
     overflow: hidden; /* Hide overflow to prevent text from appearing outside the container */
     animation: animateText 4s infinite; /* Adjust duration as needed */
     position: absolute; /* Position the element absolutely */
-    top: 334px; /* Set to top initially */
+    top: 372px; /* Set to top initially */
     left: 50%; /* Move to the horizontal center initially */
     transform: translateX(-50%); /* Correctly center horizontally */
   }
 
 
-  p {
-    position: relative;
+  #aboutPrgh {
+    position: absolute;
     line-height: 1.6;
     text-align: center;
     max-width: 800px;
     margin: auto;
-    bottom: 350px;
+    top: 427px;
+    left: 50%;
+    transform: translateX(-50%);
     font-size: 20px;
   }
+  
 
 
 
