@@ -5,8 +5,14 @@
   
   iframe {
     position: absolute;
-    bottom: -1533px;
+    bottom: -1812px;
     left: 50%;
     transform: translateX(-50%);
+  }
+  #barandiKovilaMapp {
+    position: absolute;
+    top: 2208px;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
   

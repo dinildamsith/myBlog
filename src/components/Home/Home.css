@@ -15,7 +15,7 @@ h1 {    color: rgb(0, 0, 0); /* Example: Set text color to dark gray */
   }
 
   h2 {
-    color: white; /* Set the font color to white for h2 elements */
+    color: rgb(0, 242, 20); /* Set the font color to white for h2 elements */
   }
 
 
@@ -41,7 +41,7 @@ h1 {    color: rgb(0, 0, 0); /* Example: Set text color to dark gray */
 
 
   #welcomeMyBlogTxt{
-    color: white;
+    color: rgb(0, 242, 20);
     text-align: center;
     margin: 0;
     font-size: 2em; /* Adjust the font size as needed */

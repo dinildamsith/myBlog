@@ -1,7 +1,7 @@
-.slideshow {
+.kumariElla {
     list-style-type: none;
     position: absolute;
-    top: 1198px;
+    top: 1431px;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 50%;
@@ -9,7 +9,7 @@
     z-index: 0;
 }
 
-.slideshow li span {
+.kumariElla li span {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -25,26 +25,175 @@
 }
 
 /* Adjust the animation delay for each slide */
-.slideshow li:nth-child(1) span {
+.kumariElla li:nth-child(1) span {
     
 }
 
-.slideshow li:nth-child(2) span {
+.kumariElla li:nth-child(2) span {
    
     animation-delay: 6s;
 }
 
-.slideshow li:nth-child(3) span {
+.kumariElla li:nth-child(3) span {
     
     animation-delay: 12s;
 }
 
-.slideshow li:nth-child(4) span {
+.kumariElla li:nth-child(4) span {
  
     animation-delay: 18s;
 }
 
-.slideshow li:nth-child(5) span {
+.kumariElla li:nth-child(5) span {
+   
+    animation-delay: 24s;
+}
+
+@keyframes imageAnimation {
+    0% {
+        opacity: 0;
+        animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        animation-timing-function: ease-out;
+    }
+    17% {
+        opacity: 1;
+    }
+    25% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+.barandKovila{
+    list-style-type: none;
+    position: absolute;
+    top: 2973px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    z-index: 0;
+}
+
+.barandKovila li span {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    opacity: 0;
+    z-index: 0;
+    animation: imageAnimation 30s linear infinite 0s;
+}
+
+/* Adjust the animation delay for each slide */
+.barandKovila li:nth-child(1) span {
+    
+}
+
+.barandKovila li:nth-child(2) span {
+   
+    animation-delay: 6s;
+}
+
+.barandKovila li:nth-child(3) span {
+    
+    animation-delay: 12s;
+}
+
+.barandKovila li:nth-child(4) span {
+ 
+    animation-delay: 18s;
+}
+
+.barandKovila li:nth-child(5) span {
+   
+    animation-delay: 24s;
+}
+
+@keyframes imageAnimation {
+    0% {
+        opacity: 0;
+        animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        animation-timing-function: ease-out;
+    }
+    17% {
+        opacity: 1;
+    }
+    25% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+
+.kahnavita{
+    list-style-type: none;
+    position: absolute;
+    top: 4418px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    z-index: 0;
+}
+
+.kahnavita li span {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    opacity: 0;
+    z-index: 0;
+    animation: imageAnimation 30s linear infinite 0s;
+}
+
+/* Adjust the animation delay for each slide */
+.kahnavita li:nth-child(1) span {
+    
+}
+
+.kahnavita li:nth-child(2) span {
+   
+    animation-delay: 6s;
+}
+
+.kahnavita li:nth-child(3) span {
+    
+    animation-delay: 12s;
+}
+
+.kahnavita li:nth-child(4) span {
+ 
+    animation-delay: 18s;
+}
+
+.kahnavita li:nth-child(5) span {
    
     animation-delay: 24s;
 }

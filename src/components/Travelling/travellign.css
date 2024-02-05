@@ -5,6 +5,15 @@
   transform: translate(-50%, -50%);
   text-align: center;
   }
+
+
+  #travlignAbout{
+    text-align: center;
+    margin-top: 268px;
+    margin-left: 46px;
+    margin-right: 46px;
+    font-size: 19px;
+  }
   
   #travlignTxt {
     margin-bottom: 10px; /* Optional: Add some space between the text and the image */
@@ -19,15 +28,11 @@
   
 
   #kumari_ella_desc {
-    text-align: justify;
-    margin: 0 auto;
-    max-width: 800px;
-    position: absolute;
-    top: 1420px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: table; /* Use display: table to center horizontally */
-    font-size: 20px;
+    text-align: center;
+    margin-top: 674px;
+    margin-left: 46px;
+    margin-right: 46px;
+    font-size: 19px;
   }
   
   #kumari_ella_desc > * {
@@ -39,15 +44,38 @@
     font-size: 50px;
     text-align: center;
     position: absolute;
-    top: 930px;
+    top: 1103px;
     left: 50%;
     transform: translateX(-50%);
+}
+#barandiKovilaName{
+  font-size: 50px;
+  text-align: center;
+  position: absolute;
+  top: 2598px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#barndiKoviladESC{
+  text-align: center;
+  top: 3230px;
+  position: absolute;
+  margin-left: 46px;
+  margin-right: 46px;
+  font-size: 19px;
 }
 
 
 
-
-
+#kahavitaName{
+  font-size: 50px;
+  text-align: center;
+  position: absolute;
+  top: 4086px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
 
 
