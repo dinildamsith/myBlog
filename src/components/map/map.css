@@ -23,4 +23,10 @@ html,body{
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  #kahnavitaEllMap{
+    position: absolute;
+    top: 3561px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
   
