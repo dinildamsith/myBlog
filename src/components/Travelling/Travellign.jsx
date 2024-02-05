@@ -93,9 +93,9 @@ function Travelling(){
 
                       <li><span className="slide" style={{ backgroundImage: 'url("https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2014/05/74481063.jpg?ssl=1")' }}></span></li>
                      <li><span className="slide" style={{ backgroundImage: 'url("https://raw.githubusercontent.com/dinil2005/img/main/photo_6168116149011723125_y.jpg")' }}></span></li>
-                     <li><span className="slide" style={{ backgroundImage: 'url("https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2013/10/image0436.jpg")' }}></span></li>
-                     <li><span className="slide" style={{ backgroundImage: 'url("https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2013/10/image0440.jpg")' }}></span></li>
-                     <li><span className="slide" style={{ backgroundImage: 'url("https://i0.wp.com/amazinglanka.com/wp/wp-content/uploads/2013/10/image0423.jpg")' }}></span></li>
+                     <li><span className="slide" style={{ backgroundImage: 'url("https://dayouting.lk/img_uploads/tourist-places/4714441677517602.jpg")' }}></span></li>
+                     <li><span className="slide" style={{ backgroundImage: 'url("https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/325895419_1256297808288222_6166553942448157035_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFoToxrGxNQRoOZ93Ah2vz2jajpyhMj9L-NqOnKEyP0v6LS9xmgL72kvG7EZ_q86ul_uNnSlTHDalSPGHWIVWn0&_nc_ohc=K5X1CSuEdNsAX8R7a5q&_nc_zt=23&_nc_ht=scontent.fcmb3-2.fna&oh=00_AfBPCAzDTola-ypAEPkGcSTntemwAs7q1meJFyhImIUqkg&oe=65C59DD7")' }}></span></li>
+                     <li><span className="slide" style={{ backgroundImage: 'url("https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/238783518_821324925252830_8552159627414047081_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFveL-J0mt-pIAHhmnBL8TYIEsH8u3Cz8ogSwfy7cLPyjCjvHbg5TlY8cn5rrKtNjFPzh6fxz02E-zf950iFiU0&_nc_ohc=fad25_LhkRgAX_Jdk2q&_nc_zt=23&_nc_ht=scontent.fcmb3-2.fna&oh=00_AfBjXdB2gH8jZ9sODsiNDuNNMuxqFCRetBKapNpgnMedPQ&oe=65C70B5B")' }}></span></li>
 
                 </ul>
             </div>
