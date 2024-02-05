@@ -98,6 +98,18 @@ function Travelling(){
                      <li><span className="slide" style={{ backgroundImage: 'url("https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/238783518_821324925252830_8552159627414047081_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFveL-J0mt-pIAHhmnBL8TYIEsH8u3Cz8ogSwfy7cLPyjCjvHbg5TlY8cn5rrKtNjFPzh6fxz02E-zf950iFiU0&_nc_ohc=fad25_LhkRgAX_Jdk2q&_nc_zt=23&_nc_ht=scontent.fcmb3-2.fna&oh=00_AfBjXdB2gH8jZ9sODsiNDuNNMuxqFCRetBKapNpgnMedPQ&oe=65C70B5B")' }}></span></li>
 
                 </ul>
+
+                <p id="kahanvitaEllDesc">
+                  Kahanawita Ella also called as Ballamula Ella 
+                  is a very famous waterfall in Kegalle district.
+                  Daraniyagala area in Kegalle district is blessed
+                  with so many waterfalls and Kahanawita Ella is very 
+                  popular one among them. This waterfall is situated before 
+                  Daraniyagala and just after Dehiowita. If you come from Colombo 
+                  side you need to come to Awissawella, then to Dhiowita and turn 
+                  to Daraniyagala side from there.
+                </p>
+
             </div>
         </div>
     );
