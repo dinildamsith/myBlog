@@ -110,8 +110,14 @@ function Travelling(){
                   to Daraniyagala side from there.
                 </p>
                 <div id="kahnavitaEllMap">
+                    
                     <Map url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63366.84008343807!2d80.24667665298695!3d6.958791868562495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3a7d7df053c23%3A0xd7bfccdd2f51c755!2sKahanawita%20Ela!5e0!3m2!1sen!2slk!4v1707161622193!5m2!1sen!2slk"/>
+                    
                 </div>
+
+
+
+                
             </div>
         </div>
     );

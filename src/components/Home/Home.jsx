@@ -16,9 +16,8 @@ function Home(){
            
             <ul>
               <li>About</li>
-              <li>Education</li>
               <li>Traveling</li>
-              <li>Tik Tok</li>
+              <li>Social Media</li>
             </ul>
           </li>
         </ul>
