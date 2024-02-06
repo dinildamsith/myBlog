@@ -6,7 +6,7 @@ import Map from "../map/map";
 
 function Travelling(){
     return(
-        <div>
+        <div >
             <div id="travelImageAndTxt">
             <h2 id="travlignTxt">Places</h2>
             <img src= {image.travel} id="travelImage" alt="travlImage"/>

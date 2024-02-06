@@ -140,6 +140,7 @@ li {
   font-size: 16px;
   line-height: 1.5;
   color: white; /* Set text color to white for list items */
+  
 }
 
 li ul {
@@ -147,10 +148,12 @@ li ul {
   padding: 0;
 }
 
+
+
 li ul li {
-  display: inline; /* Display nested list items inline */
-  margin-right: 10px; /* Add spacing between inline nested list items */
-  color: white; /* Set text color to white for nested list items */
+  display: inline;
+  margin-right: 10px;
+  color: #00ff40;
 }
 /* styles.css */
 
@@ -188,6 +191,30 @@ ul > li > ul > li {
 
 
 li{
-  font-size: 25px;
+  font-size: 29px;
+  color: yellow;
   
+}
+
+#navi a {
+  text-decoration: none;
+  
+
+}
+#Navigation{
+  position: fixed;
+}
+#Navigation {
+  position: fixed;top: 398px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  z-index: 1000;
+}
+
+
+#st{
+  width: 45px;
+  height: 45px;
+  background-color: #f0f0f000
 }

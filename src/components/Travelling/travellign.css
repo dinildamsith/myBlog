@@ -17,10 +17,11 @@ html,body{
 
   #travlignAbout{
     text-align: center;
-    margin-top: 268px;
+    top: 980px;
     margin-left: 46px;
     margin-right: 46px;
     font-size: 19px;
+    position: absolute;
   }
   
   #travlignTxt {
@@ -37,10 +38,11 @@ html,body{
 
   #kumari_ella_desc {
     text-align: center;
-    margin-top: 674px;
+    top: 1669px;
     margin-left: 46px;
     margin-right: 46px;
     font-size: 19px;
+    position: absolute;
   }
   
   #kumari_ella_desc > * {

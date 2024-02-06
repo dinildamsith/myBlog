@@ -10,17 +10,21 @@ import "./reset.css"
 function Home(){
     return(
         <div>
-    
+    <div id="st"></div>
+    <div id="Navigation">
     <ul id="navi">
           <li>
            
             <ul>
-              <li>About</li>
-              <li>Places</li>
-              <li>Social Media</li>
+                 <a href="#st"><li>About</li></a>
+                 <a href="#travelImage"><li>Places</li></a>
+                 <a href="#socailMediaTxt"><li>Social Media</li></a>
             </ul>
+            
           </li>
         </ul>
+    </div>
+  
             <img src= {image.myImage} id="myImage" alt="myImage"/>
 
 
