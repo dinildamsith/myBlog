@@ -5,11 +5,7 @@ const Map = ({url}) => {
   return (
     <div>
      
-      <iframe
-        title="Google Maps"
-        width="600"
-        
-        height="450"
+      <iframe id="frameMap" title="Google Maps"
         loading="lazy"
         allowFullScreen
         src={url}

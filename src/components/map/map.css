@@ -30,3 +30,20 @@ html,body{
     transform: translate(-50%, -50%);
   }
   
+#frameMap{
+  width: 600px;
+  height: 450px;
+ 
+}
+
+  
+@media all  and (Max-width: 710px ) {
+
+  #frameMap{
+  
+    width: 500px;
+  height: 350px;
+  }
+
+
+}

@@ -18,7 +18,7 @@ function Home(){
             <ul>
                  <a href="#st"><li>About</li></a>
                  <a href="#travelImage"><li>Places</li></a>
-                 <a href="#socailMediaTxt"><li>Social Media</li></a>
+                 <a href="#socailMediaTxt"><li>Contact</li></a>
             </ul>
             
           </li>

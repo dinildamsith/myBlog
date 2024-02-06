@@ -112,4 +112,23 @@ html,body{
 
 
 
-  
+  /*-----------------------------------------------------------------Media Quary------------------------------------*/
+
+@media all  and (Max-width: 1022px ) {
+  #barandiKovilaName{
+    font-size: 35px;
+  }
+  #kumariellaName{
+  left: 49%;
+}
+#kahavitaName{
+  font-size: 35px;
+
+}
+
+}
+
+@media all  and (Max-width: 710px ) {
+
+
+}

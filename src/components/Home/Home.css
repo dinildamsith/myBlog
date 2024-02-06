@@ -152,7 +152,7 @@ li ul {
 
 li ul li {
   display: inline;
-  margin-right: 10px;
+  margin-right: 40px;
   color: #00ff40;
 }
 /* styles.css */
@@ -205,8 +205,9 @@ li{
   position: fixed;
 }
 #Navigation {
-  position: fixed;top: 398px;
-  left: 50%;
+  position: fixed;
+  top: 398px;
+  left: 52%;
   transform: translate(-50%, -50%);
   padding: 10px;
   z-index: 1000;
@@ -218,3 +219,5 @@ li{
   height: 45px;
   background-color: #f0f0f000
 }
+
+
