@@ -65,3 +65,43 @@ html,body{
   }
 
 }
+
+@media all  and (Max-width: 472px ) {
+
+
+  .kahnavita
+{
+    top: 4544px;
+  }
+
+  #barandiKovilaMapp
+{
+    top: 2373px;
+  }
+
+  iframe
+  {
+    
+    bottom: -1977px;
+ 
+  }
+  #barandiKovilaMapp
+{
+    top: 2228px;
+  }
+  #kahnavitaEllMap
+{
+
+  top: 3400px;
+ 
+}
+}
+
+@media all  and (Max-width: 426px ) {
+  #frameMap{
+  
+    width: 300px;
+  height: 250px;
+  }
+
+}

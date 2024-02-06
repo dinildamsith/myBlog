@@ -143,6 +143,116 @@ html,body{
 }
 
 @media all  and (Max-width: 472px ) {
+  #kahanvitaEllDesc
+  {
+ 
+    top: 4768px;
+
+  }
+
+  #kahavitaName
+{
+    top: 4220px;
+  }
+
+  #barndiKoviladESC
+{
+
+  top: 3263px;
+ 
+}
+
+.barandKovila
+{
+
+  top: 3051px;
+ 
+}
+#barandiKovilaName
+{
+    font-size: 24px;
+  }
+}
+
+
+
+@media all  and (Max-width: 536px ) {
+  #barandiKovilaName
+  {
+   
+    top: 2758px;
+    
+  }
+
+  #kahavitaName
+  {
+      font-size: 25px;
+    }
+    #kahavitaName
+    {
+        top: 4258px;
+      }
+
+        #barndiKoviladESC
+{
+
+  top: 3263px;
+ 
+}
+
+#barndiKoviladESC
+{
+  font-size: 20px;
+}
+#kumari_ella_desc
+{
+
+  font-size: 18px;
+
+}
+}
+
+
+
+@media all  and (Max-width: 426px ) {
+  #kumariellaName
+{
+  font-size: 25px;
+    top: 1178px;
+  }
+
+  #travlignAbout
+  {
+
+    font-size: 14px;
+   
+  }
+
+  .barandKovila
+{
+
+  top: 3042px;
 
 }
 
+#barndiKoviladESC
+{
+    font-size: 18px;
+  }
+  #kumari_ella_desc
+  {
+      font-size: 17px;
+    }
+
+    .barandKovila
+{
+
+  top: 3038px;
+ 
+}
+
+#barandiKovilaName
+{
+    font-size: 18px;
+  }
+}
