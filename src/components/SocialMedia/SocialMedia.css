@@ -1,0 +1,29 @@
+  
+  #socailMediaTxt{
+    margin-bottom: 41px;
+    margin-left: -47px;
+  }
+  
+  #logoSm {
+    width: 127px;
+    left: 91px;
+    position: relative;
+    top: -96px;
+  }
+
+  #socialMediaLogoAndText{
+    position: absolute;
+    top: 5628px;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  #socailMediaAbout{
+    text-align: center;
+    top: 5622px;
+    margin-left: 46px;
+    margin-right: 46px;
+    font-size: 19px;
+    position: absolute;
+  }
