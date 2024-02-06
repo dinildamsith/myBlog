@@ -172,6 +172,11 @@ html,body{
 {
     font-size: 24px;
   }
+  #aboutPrgh
+  {
+  
+    font-size: 17px;
+  }
 }
 
 
@@ -210,11 +215,46 @@ html,body{
   font-size: 18px;
 
 }
+#aboutPrgh
+{
+
+  font-size: 17px;
+}
+#barandiKovilaName
+{
+    font-size: 20px;
+  }
+  #barandiKovilaName
+  {
+      top: 2706px;
+    }
+    #kumariellaName
+{
+
+  top: 1157px;
+  font-size: 20px;
+}
+#kahavitaName
+{
+    top: 4166px;
+  }
 }
 
+@media all  and (Max-width: 536px ) {}
 
+@media all  and (Max-width: 473px ) {
+  #kahavitaName
+  {
+      top: 4273px;
+    }
+}
 
 @media all  and (Max-width: 426px ) {
+  #aboutPrgh
+  {
+  
+    font-size: 17px;
+  }
   #kumariellaName
 {
   font-size: 25px;
@@ -255,4 +295,55 @@ html,body{
 {
     font-size: 18px;
   }
+
+  #aboutPrgh
+{
+
+  font-size: 17px;
+}
+
+.barandKovila
+{
+
+  width: 93%;
+  height: 42%;
+
+}
+.kahnavita
+{
+ 
+  width: 93%;
+  height: 42%;
+
+}
+
+.kumariElla
+{
+
+  width: 93%;
+  height: 42%;
+
+}
+.barandKovila
+{
+
+  width: 93%;
+  height: 42%;
+
+}
+.kahnavita
+{
+ 
+  width: 93%;
+  height: 42%;
+
+}
+
+.kumariElla
+{
+
+  width: 93%;
+  height: 42%;
+
+}
 }
