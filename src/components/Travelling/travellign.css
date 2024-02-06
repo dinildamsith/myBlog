@@ -119,6 +119,7 @@ html,body{
     font-size: 35px;
   }
   #kumariellaName{
+    font-size: 35px;
   left: 49%;
 }
 #kahavitaName{
@@ -128,7 +129,20 @@ html,body{
 
 }
 
-@media all  and (Max-width: 710px ) {
+@media all  and (Max-width: 518px ) {
+  #barndiKoviladESC
+  {
+    font-size: 18px;
+  }
+  #kumari_ella_desc
+  {
 
+    font-size: 18px;
+ 
+  }
+}
+
+@media all  and (Max-width: 472px ) {
 
 }
+
