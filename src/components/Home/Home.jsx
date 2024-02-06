@@ -16,7 +16,7 @@ function Home(){
            
             <ul>
               <li>About</li>
-              <li>Traveling</li>
+              <li>Places</li>
               <li>Social Media</li>
             </ul>
           </li>

@@ -8,7 +8,7 @@ function Travelling(){
     return(
         <div>
             <div id="travelImageAndTxt">
-            <h2 id="travlignTxt">Travelling</h2>
+            <h2 id="travlignTxt">Places</h2>
             <img src= {image.travel} id="travelImage" alt="travlImage"/>
             </div>
  

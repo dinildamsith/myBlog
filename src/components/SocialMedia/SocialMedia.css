@@ -13,7 +13,7 @@
 
   #socialMediaLogoAndText{
     position: absolute;
-    top: 5628px;
+    top: 5763px;
     left: 47%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -21,9 +21,20 @@
 
   #socailMediaAbout{
     text-align: center;
-    top: 5622px;
-    margin-left: 46px;
-    margin-right: 46px;
+    top: 5506px;
+    left: 27px;
+    right: 24px;
     font-size: 19px;
     position: absolute;
   }
+  #contactUs {
+    position: absolute;
+    top: 5803px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}
+#contactUs a {
+  display: inline-block;
+  margin: 0 10px; /* Adjust the margin as needed */
+}
