@@ -27,7 +27,7 @@ function Travelling(){
                   <ul class="kumariElla">
 
                       <li><span className="slide" style={{ backgroundImage: 'url("https://www.360view.lk/wp-content/uploads/2020/04/Kumari_Ella_Photos_By_360viewlk-1-of-5-1-scaled.jpg")' }}></span></li>
-                     <li><span className="slide" style={{ backgroundImage: 'url("https://raw.githubusercontent.com/dinil2005/img/main/WhatsApp%20Image%202023-05-30%20at%205.20.08%20PM.jpeg")' }}></span></li>
+                     <li><span className="slide" style={{ backgroundImage: 'url("https://cdn-cmaji.nitrocdn.com/KIFZgOjkuClQKBjYuclpHfqgfzwfBwhH/assets/images/optimized/rev-7ddd335/mysltravel.com/wp-content/uploads/2022/10/Kumari-Ella-1552663547-1.jpeg")' }}></span></li>
                      <li><span className="slide" style={{ backgroundImage: 'url("https://www.360view.lk/wp-content/uploads/2020/04/Kumari_Ella_Photos_By_360viewlk-5-of-5-1-1536x1024.jpg")' }}></span></li>
                      <li><span className="slide" style={{ backgroundImage: 'url("https://raw.githubusercontent.com/dinil2005/img/main/kk2.png")' }}></span></li>
                      <li><span className="slide" style={{ backgroundImage: 'url("https://raw.githubusercontent.com/dinil2005/img/main/kk4.png")' }}></span></li>

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css"
 import image from "../../constants/image";
-import "./reset.css"
+
 
 
 
