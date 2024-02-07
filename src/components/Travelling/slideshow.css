@@ -225,3 +225,24 @@ html,body{
         opacity: 0;
     }
 }
+@media all  and (Max-width: 380px ) {
+    .kumariElla
+    {
+      
+      width: 81%;
+    
+    }
+    .barandKovila
+{
+
+  width: 81%;
+
+}
+
+.kahnavita
+{
+  
+  width: 81%;
+
+}
+  }

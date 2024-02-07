@@ -393,5 +393,8 @@ iframe
 }
 
 @media all  and (Max-width: 380px ) {
-  
+  #barndiKoviladESC
+  {
+      font-size: 17px;
+    }
 }
