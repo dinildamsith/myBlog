@@ -22,7 +22,10 @@ function Home(){
             </ul>
             
           </li>
+         
+        
         </ul>
+     
     </div>
   
             <img src= {image.myImage} id="myImage" alt="myImage"/>

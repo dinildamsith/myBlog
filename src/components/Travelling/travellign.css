@@ -129,6 +129,30 @@ html,body{
 
 }
 
+@media all  and (Max-width: 763px ) {
+  #barndiKoviladESC
+  {
+   
+    font-size: 16px;
+  }
+
+  #kumari_ella_desc
+{
+
+  font-size: 16px;
+ 
+}
+
+iframe
+{
+
+  top: 2211px;
+}
+
+}
+
+
+
 @media all  and (Max-width: 518px ) {
   #barndiKoviladESC
   {
@@ -143,17 +167,9 @@ html,body{
 }
 
 @media all  and (Max-width: 472px ) {
-  #kahanvitaEllDesc
-  {
- 
-    top: 4768px;
 
-  }
 
-  #kahavitaName
-{
-    top: 4220px;
-  }
+
 
   #barndiKoviladESC
 {
@@ -198,23 +214,19 @@ html,body{
         top: 4258px;
       }
 
-        #barndiKoviladESC
-{
-
-  top: 3263px;
- 
-}
-
+      #barndiKoviladESC
+      {
+          top: 3166px;
+        }
 #barndiKoviladESC
 {
-  font-size: 20px;
-}
-#kumari_ella_desc
-{
-
-  font-size: 18px;
-
-}
+    font-size: 16px;
+  }
+  #kumari_ella_desc
+  {
+      font-size: 16px;
+      top: 1620px;
+    }
 #aboutPrgh
 {
 
@@ -243,10 +255,37 @@ html,body{
 @media all  and (Max-width: 536px ) {}
 
 @media all  and (Max-width: 472px ) {
-  #kahavitaName
+
+}
+
+@media all  and (Max-width: 462px ) {
+
+  iframe
   {
-      top: 4273px;
-    }
+
+    top: 2266px;
+  }
+
+  #barandiKovilaMapp
+  {
+
+    top: 1580px;
+
+  }
+  #kahnavitaEllMap
+  {
+    position: absolute;
+    top: 2877px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  iframe
+{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 2232px;
+}
 }
 
 @media all  and (Max-width: 426px ) {
@@ -351,5 +390,8 @@ html,body{
 
 
 
+}
 
+@media all  and (Max-width: 380px ) {
+  
 }

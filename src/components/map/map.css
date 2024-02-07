@@ -11,21 +11,24 @@ html,body{
     text-align: center;
   }
   
-  iframe {
+  iframe
+  {
     position: absolute;
-    bottom: -1812px;
     left: 50%;
     transform: translateX(-50%);
+    top: 2125px;
   }
-  #barandiKovilaMapp {
+  #barandiKovilaMapp
+  {
     position: absolute;
-    top: 2208px;
+    top: 1439px;
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  #kahnavitaEllMap{
+  #kahnavitaEllMap
+  {
     position: absolute;
-    top: 3561px;
+    top: 2789px;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -34,6 +37,35 @@ html,body{
   width: 600px;
   height: 450px;
  
+}
+@media all  and (Max-width: 462px ) {
+
+  iframe
+  {
+
+    top: 2266px;
+  }
+
+  #barandiKovilaMapp
+  {
+
+    top: 1580px;
+
+  }
+  #kahnavitaEllMap
+  {
+    position: absolute;
+    top: 2877px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  iframe
+{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 2232px;
+}
 }
 
   
@@ -66,36 +98,7 @@ html,body{
 
 }
 
-@media all  and (Max-width: 472px ) {
 
-
-  .kahnavita
-{
-    top: 4544px;
-  }
-
-  #barandiKovilaMapp
-{
-    top: 2373px;
-  }
-
-  iframe
-  {
-    
-    bottom: -1977px;
- 
-  }
-  #barandiKovilaMapp
-{
-    top: 2228px;
-  }
-  #kahnavitaEllMap
-{
-
-  top: 3400px;
- 
-}
-}
 
 @media all  and (Max-width: 426px ) {
   #frameMap{
@@ -104,4 +107,32 @@ html,body{
   height: 250px;
   }
 
+
+}
+
+@media all  and (Max-width: 424px ) {
+  #frameMap{
+  
+    width: 300px;
+  height: 250px;
+  }
+  iframe
+  {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 2361px;
+    }
+    #barandiKovilaMapp
+    {
+        top: 1492px;
+      }
+
+      #kahnavitaEllMap
+{
+    position: absolute;
+    top: 2735px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 }
