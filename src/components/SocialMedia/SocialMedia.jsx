@@ -26,10 +26,6 @@ function SocialMedia(){
     <a href="mailto:dinildamsith52@gmail.com?subject=Your%20Subject%20Here"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
 </div>
 
-    
-           
-           
-
 
         </div>
     );
